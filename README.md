@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security, Python, C#, JS, 
 - 🌱 I’m currently learning Python/HTML5
 - 💞️ I’m looking to collaborate on nothing right now. Just doing my own thang. 
-- 📫 How to reach me:
+- 📫 Contact me-
         Discord: Kmazz#8772
 
 <!---
